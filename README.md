@@ -17,3 +17,13 @@ php -S localhost:8080
 ### You can now visite the website at http://localhost:8000
 
 ## VueJS project setup
+### In the folder of the project 
+### Install the dependencies
+```
+npm intall
+```
+### Run the server
+```
+npm run serve
+```
+### You can now visite the website at http://localhost:8080
