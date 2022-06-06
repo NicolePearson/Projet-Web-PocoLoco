@@ -12,7 +12,7 @@ symfony server:start
 ``` 
 or 
 ```
-php -S localhost:8080
+php -S localhost:8000
 ```
 ### You can now visite the website at http://localhost:8000
 
